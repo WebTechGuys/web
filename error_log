@@ -1,0 +1,1 @@
+[15-May-2017 16:08:21 UTC] PHP Fatal error:  Call to undefined function hostingpress_pricing_texonomy() in /home/webtechg/public_html/wp-content/plugins/hostingpress-helper/vc_extend/pricing_table.php on line 47
